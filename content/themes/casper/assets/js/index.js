@@ -96,3 +96,13 @@
 
     };
 })(jQuery, 'smartresize');
+
+
+
+
+
+
+
+/////////////////////// CODE ADDED BY WES /////////////////////////////
+
+console.log("...seW fo dlrow eht ot emocleW");
